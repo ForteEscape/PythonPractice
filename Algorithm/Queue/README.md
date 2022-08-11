@@ -9,7 +9,7 @@
 |:------------------------------------------------:|:------:|:---------:|
 |    [큐](https://www.acmicpc.net/problem/10845)    |   기초   |   풀이 완료   |
 |   [큐 2](https://www.acmicpc.net/problem/18258)   |   기초   |   풀이 완료   |
-|   [카드 1](https://www.acmicpc.net/problem/2161)   |   응용   |   풀이 중    |
-|   [카드 2](https://www.acmicpc.net/problem/2164)   |   응용   |   풀이 중    |
-|   [트럭](https://www.acmicpc.net/problem/13335)    |   응용   |   풀이 중    |
-| [요세푸스 문제](https://www.acmicpc.net/problem/1158) |   응용   |   풀이 중    |
+|   [카드 1](https://www.acmicpc.net/problem/2161)   |   응용   |   풀이 완료   |
+|   [카드 2](https://www.acmicpc.net/problem/2164)   |   응용   |   풀이 완료   |
+|   [트럭](https://www.acmicpc.net/problem/13335)    |   응용   |   풀이 완료   |
+| [요세푸스 문제](https://www.acmicpc.net/problem/1158) |   응용   |   풀이 완료   |
