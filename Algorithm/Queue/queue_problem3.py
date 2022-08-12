@@ -1,3 +1,4 @@
+# BOJ 1158 answer code
 from collections import deque
 
 N, K = map(int, input().split())
@@ -10,5 +11,3 @@ while queue:
     ans.append(queue.popleft())
 
 print("<" + ", ".join(list(map(str, ans))) + ">")
-
-

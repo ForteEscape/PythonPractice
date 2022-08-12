@@ -1,3 +1,4 @@
+# BOJ 2161 answer code
 from collections import deque
 
 card = int(input())
