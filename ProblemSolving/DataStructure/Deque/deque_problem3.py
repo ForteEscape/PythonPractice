@@ -7,7 +7,6 @@ my_deque = deque()
 ans = []
 
 for x in range(N):
-
     while my_deque and my_deque[-1][0] >= data[x]:
         my_deque.pop()
 

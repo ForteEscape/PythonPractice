@@ -1,3 +1,4 @@
+# BOJ 1021 answer code
 from collections import deque
 import sys
 
