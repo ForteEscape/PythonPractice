@@ -16,6 +16,6 @@
 |  [섬의 개수](https://www.acmicpc.net/problem/4963)   |   응용   |   풀이 완료   |
 |  [스타트링크](https://www.acmicpc.net/problem/5014)   |   응용   |   풀이 완료   |
 |    [빙산](https://www.acmicpc.net/problem/2573)    |   응용   |   풀이 완료   |
-|    [불!](https://www.acmicpc.net/problem/4179)    |   응용   |   풀이 중    |
-|  [상범 빌딩](https://www.acmicpc.net/problem/6593)   |   응용   |   풀이 중    |
-|   [토마토2](https://www.acmicpc.net/problem/7569)   |   응용   |   풀이 중    |
+|    [불!](https://www.acmicpc.net/problem/4179)    |   응용   |   풀이 완료    |
+|  [상범 빌딩](https://www.acmicpc.net/problem/6593)   |   응용   |   풀이 완료    |
+|   [토마토2](https://www.acmicpc.net/problem/7569)   |   응용   |   풀이 완료    |
