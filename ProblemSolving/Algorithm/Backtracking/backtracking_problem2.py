@@ -1,3 +1,4 @@
+# N - Queen
 n = int(input())
 
 is_used_column = [False for _ in range(n)]

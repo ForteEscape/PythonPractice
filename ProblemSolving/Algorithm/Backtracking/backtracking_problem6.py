@@ -1,3 +1,4 @@
+# N-M 유형 2
 import sys
 
 n, m = map(int, sys.stdin.readline().split())

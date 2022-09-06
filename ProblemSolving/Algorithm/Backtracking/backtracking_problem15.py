@@ -1,3 +1,4 @@
+# 암호 만들기
 import sys
 
 L, C = map(int, sys.stdin.readline().split())
