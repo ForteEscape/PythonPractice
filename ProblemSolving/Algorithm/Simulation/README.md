@@ -15,9 +15,9 @@
 |    [주사위 굴리기](https://www.acmicpc.net/problem/14499)    |   응용   |   풀이 완료   |
 |   [puyo puyo](https://www.acmicpc.net/problem/11559)   |   응용   |   풀이 완료   |
 |   [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)    |   응용   |   풀이 완료   |
-|     [톱니바퀴](https://www.acmicpc.net/problem/14891)      |   응용   |   풀이 중    |
-|     [인구 이동](https://www.acmicpc.net/problem/16234)     |   응용   |   풀이 중   |
-| [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |   응용   |   풀이 중   |
+|     [톱니바퀴](https://www.acmicpc.net/problem/14891)      |   응용   |   풀이 완료    |
+|     [인구 이동](https://www.acmicpc.net/problem/16234)     |   응용   |   풀이 완료   |
+| [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |   응용   |   풀이 완료  |
 |     [테트로미노](https://www.acmicpc.net/problem/14500)     |   응용   |   풀이 중   |
 |  [2048(Easy)](https://www.acmicpc.net/problem/12100)   |   응용   |   풀이 중   |
 |   [Maaaaaaze](https://www.acmicpc.net/problem/16985)   |   응용   |   풀이 중   |
