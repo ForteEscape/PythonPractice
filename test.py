@@ -1,37 +1,24 @@
 import sys
 
-N, M = map(str, sys.stdin.readline().split())
+N = int(sys.stdin.readline().rstrip())
+data = []
+w, w_idx = 0, 0
+h, h_idx = 0, 0
 
-new_N, new_M = '', ''
+for i in range(6):
+    direction, length = map(int, sys.stdin.readline().split())
+    data.append([direction, length])
 
-for i in N:
-    if i == '6':
-        new_N += '5'
-        continue
-    new_N += i
+for i in range(len(data)):
+    if data[i][0] == 1 or data[i][0] == 2:
+        if w < data[i][1]:
+            w = data[i][1]
+            w_idx = i
+    elif data[i][0] == 3 or data[i][0] == 4:
+        if h < data[i][1]:
+            h = data[i][1]
+            h_idx = i
 
-for j in M:
-    if j == '6':
-        new_M += '5'
-        continue
-    new_M += j
-
-mn = int(new_M) + int(new_N)
-
-new_N, new_M = '', ''
-
-for i in N:
-    if i == '5':
-        new_N += '6'
-        continue
-    new_N += i
-
-for j in M:
-    if j == '5':
-        new_M += '6'
-        continue
-    new_M += j
-
-mx = int(new_M) + int(new_N)
-
-print(mn, mx)
+sub_W = abs(data[(w_idx - 1) % 6][1] - data[(w_idx + 1) % 6][1])
+sub_H = abs(data[(h_idx - 1) % 6][1] - data[(h_idx + 1) % 6][1])
+print(((w * h) - (sub_W * sub_H)) * N)
